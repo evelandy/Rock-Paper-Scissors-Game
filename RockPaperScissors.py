@@ -1,3 +1,9 @@
+#!/usr/bin/env python3
+"""evelandy/W.G.
+Sept. 29 2018 3:20pm
+Rock Paper Scissors
+Python36-32 
+"""
 import random
 import time
 import os
